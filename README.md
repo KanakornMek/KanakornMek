@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kanakorn Suk-ieam</h1>
 <h3 align="center">A student from Chulalongkorn University, majoring in Information and Communication Engineering (ICE). I am passionate about technology and software development</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanakornmek" alt="kanakornmek" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
